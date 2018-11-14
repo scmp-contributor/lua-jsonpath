@@ -2,7 +2,7 @@ package = 'jsonpath'
 version = '1.0-1'
 source = {
     url = 'git://github.com/scmp/lua-jsonpath',
-    tag = '1.0'
+    tag = '1.0.1'
 }
 description = {
     summary = 'Query Lua data structures with JsonPath expressions. Robust and safe JsonPath engine for Lua.',
@@ -25,7 +25,7 @@ build = {
     modules = {
         jsonpath = 'jsonpath.lua'
     },
-    copy_directories = { 
+    copy_directories = {
         'test'
     }
 }
