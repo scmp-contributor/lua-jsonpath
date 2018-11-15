@@ -1,7 +1,7 @@
 package = 'jsonpath'
 version = '1.0-1'
 source = {
-    url = 'https://github.com/scmp/lua-jsonpath.git',
+    url = 'git://github.com/scmp/lua-jsonpath',
     tag = '1.0.1'
 }
 description = {
