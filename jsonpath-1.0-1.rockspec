@@ -1,7 +1,7 @@
 package = 'jsonpath'
 version = '1.0-1'
 source = {
-    url = 'https://github.com/scmp/lua-jsonpath/archive/1.0.1.tar.gz',
+    url = 'https://github.com/scmp-contributor/lua-jsonpath/archive/1.0.1.tar.gz',
     file = '1.0.1.tar.gz',
     dir = 'lua-jsonpath-1.0.1',
     tag = '1.0.1'
@@ -15,7 +15,7 @@ Lua JsonPath is compatible with David Chester's Javascript implementation (https
 
 The Lua JsonPath library was written from scratch by Frank Edelhaeuser. It's a pure Lua implementation based on a PEG grammer handled by Roberto Ierusalimschy's fabulous LPeg pattern-matching library (http://www.inf.puc-rio.br/~roberto/lpeg/lpeg.html).
     ]],
-    homepage = 'https://github.com/scmp/lua-jsonpath',
+    homepage = 'https://github.com/scmp-contributor/lua-jsonpath',
     license = 'MIT'
 }
 dependencies = {
